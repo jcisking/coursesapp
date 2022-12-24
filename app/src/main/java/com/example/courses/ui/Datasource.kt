@@ -4,7 +4,7 @@ import com.example.courses.CourseTopic
 import com.example.courses.R
 
 object Datasource {
-    val topics = listOf(
+    val courseTopics = listOf(
         CourseTopic(R.string.architecture, "58", R.drawable.architecture),
         CourseTopic(R.string.crafts, "121", R.drawable.crafts),
         CourseTopic(R.string.business, "78", R.drawable.business),
